@@ -42,5 +42,5 @@ MIT License. Copyright (c) 2017 Chris Stefano. See [LICENSE](LICENSE) for detail
 <!-- Links -->
 [buildpack]: https://github.com/virtualstaticvoid/heroku-buildpack-r
 [button]: https://www.herokucdn.com/deploy/button.svg
-[deployapp]: https://heroku.com/deploy?template=https://github.com/virtualstaticvoid/heroku-shiny-app/tree/main
+[deployapp]: https://heroku.com/deploy?template=https://github.com/aagnone-sfhk/heroku-shiny-app
 [shiny]: https://shiny.rstudio.com/
